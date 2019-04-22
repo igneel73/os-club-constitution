@@ -64,7 +64,13 @@ Only registered UCSD students may hold office in the organization. Only register
   - Ensures the mission of the club is being properly executed and followed by the club's board and general members
   - Oversees all programs, events, and services created by the club
   - Oversees any collaboration and communcation with others organizations
-  
+
+- *Vice President*
+  - Assists the President with ensuringthe missions of the club is being properly executed
+  - Ensures funding for all programs, events, and services
+  - Takes detailed notes in all board meetings
+  - In charge of all club expenses, financial reporting, and any club bank account details
+
 - *Project Chair*
   - Ensures all project-related programs, events, or services properly follow the club's mission statement
   - Oversees any and all projects or packages owned by the organization
