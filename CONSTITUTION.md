@@ -64,6 +64,11 @@ Only registered UCSD students may hold office in the organization. Only register
   - Ensures the mission of the club is being properly executed and followed by the club's board and general members
   - Oversees all programs, events, and services created by the club
   - Oversees any collaboration and communcation with others organizations
+
+- *Vice President*
+  - Assists the President with ensuring the missions of the club is being properly executed
+  - Assumes the responsibility of the President when the President is absent
+  - Assists any other club officer in their duties, programs, events, or services
   
 - *Project Chair*
   - Ensures all project-related programs, events, or services properly follow the club's mission statement
@@ -87,6 +92,16 @@ Only registered UCSD students may hold office in the organization. Only register
   - Ensures all events are properly promoted to the UC San Diego student body
   - Hosts, at minimum, 1 event per quarter designed for people who are new top open source
 
+- *Treasurer*
+  - Ensures funding for all programs, events, and services
+  - In charge of all club expenses, financial reporting, and any club bank account details
+
+- *Secretary*
+  - Ensures all club-related activity have proper room reservations
+  - Keeps records of all programs, events, and services offered by the club, and makes it available to the public
+  - Takes detailed notes of all board meetings, and makes them available to all club members
+  
+  
 ### Elections/Appointments
 
 [TODO]
